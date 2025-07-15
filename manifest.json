@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Define Selected Word",
+  "version": "1.1",
+  "description": "Shows the definition of the selected word.",
+  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+    "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "host_permissions": [
+    "https://api.dictionaryapi.dev/*"
+  ],
+  "web_accessible_resources": [{
+    "resources": ["style.css"],
+    "matches": ["<all_urls>"]
+  }]
+}
