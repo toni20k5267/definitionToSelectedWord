@@ -1,4 +1,4 @@
-# ![icon](https://raw.githubusercontent.com/toni20k5267/linkToSeletedText/refs/heads/main/iconSRC.svg) Define Selected Word
+# ![icon](https://raw.githubusercontent.com/toni20k5267/definitionToSelectedWord/refs/heads/main/icon.svg) Define Selected Word
 
 An extension for chromium-based browsers that shows a clean, iOS-style popup with definitions for selected words using [dictionaryapi.dev](https://dictionaryapi.dev).
 
