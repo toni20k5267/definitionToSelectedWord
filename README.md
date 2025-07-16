@@ -11,7 +11,7 @@ An extension for chromium-based browsers that shows a clean popup with definitio
 
 ## How to use
 
-1. Select one English word on any webpage(except chrome://newtab or similar webpages.
+1. Select one English word on any webpage(except chrome://newtab or similar webpages).
 2. Right click the word.
 3. Choose "Define selected word".
 4. The definition should pop up!
