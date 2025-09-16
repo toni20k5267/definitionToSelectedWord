@@ -1,7 +1,7 @@
 # ![icon](https://raw.githubusercontent.com/toni20k5267/definitionToSelectedWord/refs/heads/main/icon.svg) Define Selected Word
 
 An extension for chromium-based browsers that shows a clean popup with definitions for selected words using [dictionaryapi.dev](https://dictionaryapi.dev).
-
+# this is shit dont use it pls idk if ill be working on it but rn its in a terrible shape. if you want to you can commit your own code or for the project entirely
 ## How to install
 
 1. Download the zip file and unpack it.
@@ -20,4 +20,5 @@ An extension for chromium-based browsers that shows a clean popup with definitio
 
 The extension relies on [dictionaryapi.dev](https://dictionaryapi.dev), so if the API is down or the word isn't found, nothing will show up.  
 It also doesn't support multi-word phrases, and some complex dictionary entries may not display everything perfectly(sowwy).  
+
 
